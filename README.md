@@ -1,6 +1,9 @@
 JSeal
 ====================
 
+This is the Testing Branch.
+New features will be updated here before they are included to the master branch.
+
 ###About
 
 JSeal is a Steganography application that allows a user to encode data into an existing image file.

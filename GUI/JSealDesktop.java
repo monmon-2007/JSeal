@@ -12,8 +12,8 @@ public class JSealDesktop extends JFrame implements ActionListener
   //Default Constructor.
   JSealDesktop()
   {
-	//Call Super Constructor.
-    super("JSeal"); setBounds(100,100,550,65);
+    //Call Super Constructor.
+    super("JSeal"); setBounds(100,100,575,50);
 
 	//JFrame Settings.
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
